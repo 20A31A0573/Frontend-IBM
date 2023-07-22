@@ -12,7 +12,7 @@ const myFunction = function (x) {
     returnValue = true;
   } else {
     mk.setAttribute(`src`, `/images/mk-logo2.svg`);
-  }
+}
 };
 let y = window.matchMedia("(max-width: 520px)");
 const myFunction2 = function (y) {
