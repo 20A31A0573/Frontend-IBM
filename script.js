@@ -22,7 +22,7 @@ const myFunction2 = function (y) {
   } else {
     mk.setAttribute(`src`, `/images/mk-logo2.svg`);
     crossMenu.setAttribute(`src`, `/images/cross-2.svg`);
-  }
+}
 };
 let z = window.matchMedia("(min-width: 855px)");
 const myFunction3 = function (z) {
